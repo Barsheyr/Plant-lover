@@ -1,0 +1,11 @@
+.hero__bg1 {
+  background: url("./assets/h-flower-1.png");
+  background-repeat: no-repeat;
+  background-position: right;
+}
+
+.hero__bg2 {
+  background: url("./assets/h-flower-2.png");
+  background-repeat: no-repeat;
+  background-position: left;
+}
